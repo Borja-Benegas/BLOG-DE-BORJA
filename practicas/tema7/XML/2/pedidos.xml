@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pedidos SYSTEM "pedidos.dtd">
+<pedidos>
+  <pedido>
+    <destinatario_del_pedido>Juan Delgado Martínez</destinatario_del_pedido>
+    <articulos>Bicicleta A2023</articulos>
+    <dirección_de_entrega>C/ Barco Nº4  3A</dirección_de_entrega>
+    <fecha_de_entrega>19/5/2020</fecha_de_entrega>
+  </pedido>
+</pedidos>

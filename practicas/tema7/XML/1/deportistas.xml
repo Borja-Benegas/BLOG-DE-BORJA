@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE deportistas SYSTEM "deportistas.dtd">
+<deportistas>
+  <deporte tipo="natación">
+   <deportista>Jeese Owens</deportista>
+  </deporte>
+  <deporte tipo="atletismo">
+  <deportista>Mark Splitz</deportista>
+  </deporte>
+</deportistas>

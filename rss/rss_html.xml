@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss>
+  <channel>
+      <title>Canal de Sindicación para mis ejercicios HTML</title>
+      <link>https://borja-benegas.github.io/BLOG-DE-BORJA/</link>
+      <description>Canal específico para ejercicios HTML</description>
+    <item>
+      <title>Córdoba Patrimonio</title>
+      <link>https://borja-benegas.github.io/CORDOBA-PATRIMONIO/index.html</link>
+      <description>Página web relacionado con la web de Córdoba Patrimonio (Proyecto)</description>
+    </item>
+    <item>
+      <title>Recetas de la Abuela</title>
+      <link>https://github.com/Borja-Benegas/BLOG-DE-BORJA/practicas/recetas-abuela/index.html</link>
+      <description>Página web relacionado con una web de recetas tradicionales (Proyecto)</description>
+    </item>
+  </channel>
+</rss>

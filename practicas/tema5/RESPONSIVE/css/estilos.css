@@ -1,0 +1,24 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin:0px;
+    padding:0px;
+    background-color:grey;
+}
+
+@media (max-width:1200px) {
+    body{
+        background-color: gold;
+    }
+}
+
+@media (max-width:900px) {
+    body{
+        background-color: green;
+    }
+}
+
+@media (max-width:800px) {
+    body{
+        background-color: white;
+    }
+}

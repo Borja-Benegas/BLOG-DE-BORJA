@@ -1,0 +1,8 @@
+<!ELEMENT mensaje (remite,destinatario,asunto,texto)>
+<!ELEMENT remite (nombre+,email)>
+  <!ELEMENT nombre (#PCDATA)>
+  <!ELEMENT email (#PCDATA)>
+<!ELEMENT destinatario (nombre,email)>
+<!ELEMENT asunto (#PCDATA)>
+<!ELEMENT texto (parrafo)>
+  <!ELEMENT parrafo (#PCDATA)>

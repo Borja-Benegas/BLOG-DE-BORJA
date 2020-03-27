@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mensaje SYSTEM "mensaje.dtd">
+<mensaje>
+  <remite>
+    <nombre>Alfredo Reino</nombre>
+    <email>alf@example.com</email>
+  </remite>
+  <destinatario>
+    <nombre>Bil Clinton</nombre>
+    <email>president@example.com</email>
+  </destinatario>
+  <asunto>  Hola Bill</asunto>
+  <texto>
+    <parrafo>Hola, ¿Que tál?</parrafo>  
+  </texto>
+</mensaje>

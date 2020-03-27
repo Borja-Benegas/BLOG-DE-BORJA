@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss>
+  <channel>
+      <title>Canal de Sindicación para mis ejercicios XML</title>
+      <link>https://borja-benegas.github.io/BLOG-DE-BORJA/</link>
+      <description>Canal específico para ejercicios HTML</description>
+    <item>
+      <title>Ejercicio 1 Deportistas (XML Y DTD)</title>
+      <link>https://github.com/Borja-Benegas/BLOG-DE-BORJA/practicas/tema7/index.html</link>
+    </item>
+    <item>
+      <title>Ejercicio 2 Pedidos (XML Y DTD)</title>
+      <link>https://github.com/Borja-Benegas/BLOG-DE-BORJA/practicas/tema7/index.html</link>
+    </item>
+    <item>
+      <title>Ejercicio 3 Mensaje (XML Y DTD)</title>
+      <link>https://github.com/Borja-Benegas/BLOG-DE-BORJA/practicas/tema7/index.html</link>
+    </item>
+  </channel>
+</rss>

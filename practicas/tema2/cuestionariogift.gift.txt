@@ -1,0 +1,40 @@
+//Cuestionario Gift 
+//Realizado por Borja Benegas
+
+//Pregunta 1
+¿QUE ES HTML?
+{
+    ~%100%Es un lenguaje de marcado
+    ~%-100%Es un lenguaje de diseño gráfico
+}
+
+//Pregunta 2
+¿Que etiqueta representa una tabla?
+{
+    ~%100%<table></table>
+    ~%-100%<h1></h1>
+}
+
+//Pregunta 3
+¿Que etiqueta representa el encabezado?
+{
+    ~%100%<header></header>
+    ~%-100%<nav></nav>
+}
+
+//Pregunta 4
+¿Que etiqueta representa el pie del documento?
+{
+    ~%100%<footer></footer>
+    ~%-100%<nav></nav>
+}
+
+//Pregunta 5
+¿QUE ES HTML?
+{
+    ~%-100%Es un lenguaje de marcado
+    ~%100%Es un lenguaje de diseño gráfico
+}
+
+
+
