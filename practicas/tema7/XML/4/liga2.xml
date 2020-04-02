@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE liga[
+<!ELEMENT liga (partido+)>
+<!ELEMENT partido (equipolocal,equipovisitante)>
+<!ELEMENT equipolocal (#PCDATA)>
+<!ELEMENT equipovisitante (#PCDATA)>
+  <!ATTLIST equipolocal goles CDATA #REQUIRED>
+  <!ATTLIST equipovisitante goles CDATA #REQUIRED>
+]>
+
+<liga>
+  <partido>
+    <equipolocal goles="0">Nottingham Presa</equipolocal>  
+    <equipovisitante goles="1">Inter de Mitente</equipovisitante>
+  </partido>
+  <partido>
+    <equipolocal goles="3">Vodka Juniors</equipolocal>  
+    <equipovisitante goles="2">Sparta da Risa</equipovisitante>
+  </partido>
+  <partido>
+    <equipolocal goles="4">Water de Munich</equipolocal>  
+    <equipovisitante goles="1"> Esteaua es del grifo</equipovisitante>
+  </partido>
+</liga>
