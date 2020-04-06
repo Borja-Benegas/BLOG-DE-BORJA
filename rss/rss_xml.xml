@@ -24,5 +24,13 @@
       <title>Ejercicio 5 Álbum (XML)</title>
       <link>https://borja-benegas.github.io/BLOG-DE-BORJA/practicas/tema7/XML/ejercicios.html</link>
     </item>
+     <item>
+      <title>Ejercicio 6 Personas (XML y XSD)</title>
+      <link>https://borja-benegas.github.io/BLOG-DE-BORJA/practicas/tema7/XSD/ejercicios.html</link>
+    </item>
+    <item>
+      <title>Ejercicio 7 Personas2 (XML y XSD)</title>
+      <link>https://borja-benegas.github.io/BLOG-DE-BORJA/practicas/tema7/XSD/ejercicios.html</link>
+    </item>
   </channel>
 </rss>
