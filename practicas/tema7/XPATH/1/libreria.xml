@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+Seleccionar los libros: /bookstore/book/title
+Seleccionar el primer libro: /bookstore/book[1]/title
+Seleccionar todos los precios: /bookstore/book/price
+Seleccionar todos los precios (Solo el número): /bookstore/book/price/text()
+Seleccionar todos los precios superios a 35: /bookstore/book[price>35]/price
+Sacar por pantalla solo el nombre del libro mayo a 35: /bookstore/book[price>35]/title
+Sacar por pantalla solo el nombre del libro mayo a 35 (solo dato):
+
+<bookstore>
+
+<book category="cooking">
+  <title lang="en">Everyday Italian</title>
+  <author>Giada De Laurentiis</author>
+  <year>2005</year>
+  <price>30.00</price>
+</book>
+
+<book category="children">
+  <title lang="en">Harry Potter</title>
+  <author>J K. Rowling</author>
+  <year>2005</year>
+  <price>29.99</price>
+</book>
+
+<book category="web">
+  <title lang="en">XQuery Kick Start</title>
+  <author>James McGovern</author>
+  <author>Per Bothner</author>
+  <author>Kurt Cagle</author>
+  <author>James Linn</author>
+  <author>Vaidyanathan Nagarajan</author>
+  <year>2003</year>
+  <price>49.99</price>
+</book>
+
+<book category="web">
+  <title lang="en">Learning XML</title>
+  <author>Erik T. Ray</author>
+  <year>2003</year>
+  <price>39.95</price>
+</book>
+
+</bookstore>
