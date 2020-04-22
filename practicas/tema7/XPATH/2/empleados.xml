@@ -1,17 +1,4 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-1.Seleciona el nodo documento: /
-2.Selecciona el elemento root: /root
-3.Selecciona todos los elementos 'employee' que son hijos directos del elemento 'employees': /root/employees/employee
-4.Selecciona todos elementos 'company' elements independientemente de su posición en el documento: //company o //company/text()
-5.Selecciona los atributos 'id' de los elementos 'company' independientemente de su posición en el documento: //company/@id
-6.Selecciona el valor del primer elemento ‘employee': //employee[1] o //employee[1]/text()
-7.Selecciona el último elemento 'employee'://employee[last()]
-8.Selecciona el primer y segundo elemento 'employee', utilizando su posición:/root/employees/employee[position()<3]
-9.Selecciona todos los elementos 'employee' que tienen el atributo 'id': //employee[@id]
-10.Selecciona el elemento 'employee' cuyo valor de atributo ‘id’ sea 3.: //employee[@id=3]
-11.Selecciona todos los elementos 'employee' con 'id' menor o igual a 3: //employee[@id<="3"]
-12.Selecciona todos los hijos del nodo 'companies'://companies/*
-
 <root xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org/%22%3E">
   <employees>
     <employee id="1">Johnny Dapp</employee>
