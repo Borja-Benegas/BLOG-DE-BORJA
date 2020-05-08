@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<examenes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="4.xsd">
+<examen numero="1">
+ <nombre>Raúl García</nombre>
+ <nota>10</nota>
+ </examen>
+ <examen numero="2">
+ <nombre>Miguel Feria</nombre>
+ <nota>8</nota>
+ </examen>
+</examenes>
