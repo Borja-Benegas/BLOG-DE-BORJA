@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="horario.xsl"?>
+<!DOCTYPE horario SYSTEM "horario.dtd">
+
+<horario>
+  <lunes>
+    <primera>MARCAS</primera>
+    <segunda>ASO</segunda>
+    <tercera>ISO</tercera>
+    <cuarta>FOL</cuarta>
+    <quinta>IAW</quinta>
+    <sexta>ASGBD</sexta>  
+  </lunes>
+  <martes>
+  <primera>MARCAS</primera>
+    <segunda>ASO</segunda>
+    <tercera>ISO</tercera>
+    <cuarta>FOL</cuarta>
+    <quinta>IAW</quinta>
+    <sexta>ASGBD</sexta>  
+    </martes>
+  <miercoles>
+    <primera>MARCAS</primera>
+    <segunda>ASO</segunda>
+    <tercera>ISO</tercera>
+    <cuarta>FOL</cuarta>
+    <quinta>IAW</quinta>
+    <sexta>ASGBD</sexta>  
+  </miercoles>
+  <jueves>
+  <primera>MARCAS</primera>
+    <segunda>ASO</segunda>
+    <tercera>ISO</tercera>
+    <cuarta>FOL</cuarta>
+    <quinta>IAW</quinta>
+    <sexta>ASGBD</sexta>  
+    </jueves>
+  <viernes>
+  <primera>MARCAS</primera>
+    <segunda>ASO</segunda>
+    <tercera>ISO</tercera>
+    <cuarta>FOL</cuarta>
+    <quinta>IAW</quinta>
+    <sexta>ASGBD</sexta>  </viernes>
+</horario>

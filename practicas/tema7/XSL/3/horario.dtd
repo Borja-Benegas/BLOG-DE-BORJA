@@ -1,0 +1,13 @@
+<!ELEMENT horario (lunes,martes,miercoles,jueves,viernes)>
+<!ELEMENT lunes (primera,segunda,tercera,cuarta,quinta,sexta)>
+<!ELEMENT primera (#PCDATA)>
+<!ELEMENT segunda (#PCDATA)>
+<!ELEMENT tercera (#PCDATA)>
+<!ELEMENT cuarta (#PCDATA)>
+<!ELEMENT quinta (#PCDATA)>
+<!ELEMENT sexta (#PCDATA)>
+
+<!ELEMENT martes (primera,segunda,tercera,cuarta,quinta,sexta)>
+<!ELEMENT miercoles (primera,segunda,tercera,cuarta,quinta,sexta)>
+<!ELEMENT jueves (primera,segunda,tercera,cuarta,quinta,sexta)>
+<!ELEMENT viernes (primera,segunda,tercera,cuarta,quinta,sexta)>
