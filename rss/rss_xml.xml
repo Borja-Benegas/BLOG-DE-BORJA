@@ -49,12 +49,28 @@
       <link>https://borja-benegas.github.io/BLOG-DE-BORJA/practicas/tema7/XPATH/ejercicios.html</link>
     </item>
     <item>
-      <title>Ejercicio 1 CD (XLS)</title>
+      <title>Ejercicio 1 CD (XSL)</title>
       <link>https://borja-benegas.github.io/BLOG-DE-BORJA/practicas/tema7/XSL/ejercicios.html</link>
     </item>
     <item>
-      <title>Ejercicio 2 AEMET (XLS)</title>
+      <title>Ejercicio 2 AEMET (XSL)</title>
       <link>https://borja-benegas.github.io/BLOG-DE-BORJA/practicas/tema7/XSL/ejercicios.html</link>
+    </item>
+    <item>
+      <title>Ejercicio 1 BAILES (XQUERY)</title>
+      <link>https://borja-benegas.github.io/BLOG-DE-BORJA/practicas/tema8/index.html</link>
+    </item>
+    <item>
+      <title>Ejercicio 2 BOOKS (XQUERY)</title>
+      <link>https://borja-benegas.github.io/BLOG-DE-BORJA/practicas/tema8/index.html</link>
+    </item>
+    <item>
+      <title>Ejercicio 3 PROTECTORA (XQUERY)</title>
+      <link>https://borja-benegas.github.io/BLOG-DE-BORJA/practicas/tema8/index.html</link>
+    </item>
+    <item>
+      <title>Ejercicio 4 CENTROMEDICO (XQUERY)</title>
+      <link>https://borja-benegas.github.io/BLOG-DE-BORJA/practicas/tema8/index.html</link>
     </item>
   </channel>
 </rss>
